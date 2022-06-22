@@ -1,6 +1,6 @@
 var mod = {
-    primaryName: "ω",
-    secondaryName: "Engine",
+    primaryName: "Ex",
+    secondaryName: "-Lλγers",
     version: "1.0.0",
     engineVer: "0.2.3 P1", //DO NOT MODIFY
     debugMode: true,
@@ -13,6 +13,12 @@ var mod = {
         ["eXPerience", "css/themes/experience.css"]
     ],
     layerNames: [
+        ["Ω-Lλγers 2",
+        [
+            "αβγδεζηθικλμνξοπρστυφχψωΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩAaBbCcDdEeFfGgHhIiJjKkLM",
+            "ψϝϛͱϻϙͳϸ",
+            ["<span class='flipped-v'>Ω</span>", "<span class='flipped-v'>Ω</span><sup>2</sup>","<span class='flipped-v'>Ω</span><sup>3</sup>","<span class='flipped-v'>Ω</span><sup>2<sup>2</sup></sup>"]
+        ]],
         ["Ω-Lλγers",
         [
             "αβγδεζηθικλμνξοπρστυφχψωΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ",
